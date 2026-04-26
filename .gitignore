@@ -1,0 +1,6 @@
+data/
+catboost_info/
+*.csv
+*.parquet
+*.pkl
+*.h5
